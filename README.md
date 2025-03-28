@@ -66,7 +66,8 @@ Para usar **Grinder**, asegúrate de tener Python 3.x instalado en tu sistema.
 
 ## Capturas de Pantalla
 
-![Captura de pantalla](https://example.com/screenshot.png)  <!-- Reemplaza con una URL de tu captura de pantalla -->
+<img src="https://github.com/user-attachments/assets/15ca8e4c-310e-4880-b912-2cbfcb7f9b89" width="500">
+<img src="https://github.com/user-attachments/assets/915be4d9-9dda-4a09-9b9f-4ca89fd3d51d" width="500">
 
 ## Contribuciones
 
@@ -89,3 +90,5 @@ Este proyecto está licenciado bajo la Licencia GNU General Public License v3.0 
 ---
 
 Si necesitas agregar alguna sección más o ajustar la información, avísame y estaré encantado de ayudarte.
+
+
