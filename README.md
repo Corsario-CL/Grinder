@@ -80,7 +80,7 @@ Para usar **Grinder**, asegúrate de tener Python 3.x instalado en tu sistema.
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia GNU General Public License v3.0 - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 
